@@ -1,0 +1,44 @@
+#container{
+    display: flex;
+    text-align: center;
+
+}
+#img1{
+    width: 50em;
+}
+#h{
+    width: 50em;
+}
+.l{
+    font-family: 'Shadows Into Light', cursive;
+}
+#m{
+    font-size: 100px;
+    font-family: 'Lobster', cursive;
+}
+#lk{
+    font-family: 'Francois One', cursive;
+}
+#m1{
+    font-size: 20px;
+}
+#km{
+    height:300px;
+}
+#lm{
+    font-family: 'Oswald', sans-serif;
+    height: 70%;
+    color: white;
+    margin-left: 100px;
+}
+#kk{
+    height=100%;:
+}
+#kid{
+    background-color: black;
+    color: white;
+}
+#kid:hover{
+ background-color: white;
+ color: grey;
+}
